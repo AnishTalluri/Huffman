@@ -23,8 +23,8 @@ To compile the program, use the provided Makefile with the following commands:
 To compress a file, use the following command:
 `./huff -i input_file -o output_file`
 
--`-i`: Specifies the input file to compress.
--`-o`: Specifies the output file where the decompressed data will be stored.
+- `-i`: Specifies the input file to compress.
+- `-o`: Specifies the output file where the decompressed data will be stored.
 
 ### Additional Options
 -`-h`: Displays a help message.
