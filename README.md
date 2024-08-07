@@ -54,9 +54,9 @@ These structures are fundamental in managing the Huffman coding process, from tr
 The core algorithms are implemented in two main components:
 
 1. Huffman Encoder (huff.c):
-  -Calculates the frequency histogram of the input data.
-  -Constructs the Huffman tree based on the frequency data.
-  -Encodes the input file by replacing symbols with their corresponding Huffman codes.
+  - Calculates the frequency histogram of the input data.
+  - Constructs the Huffman tree based on the frequency data.
+  - Encodes the input file by replacing symbols with their corresponding Huffman codes.
    
 2. Huffman Decoder (dehuff.c):
   - Reads the encoded file.
